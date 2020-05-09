@@ -25,7 +25,7 @@ Network must be setup first. Run the command below with an arbitrary stack name!
 ```
 <p>
 
-Once infrastructure has been completed (by checking AWS CloudFormation for stack status), run the command below!
+Once above stack has been created (by checking AWS CloudFormation for stack status), run the command below!
 
 ```
 ./aws-stack.sh <stack name> server.yml server-params.json
