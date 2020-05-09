@@ -1,5 +1,6 @@
 # Cloud-Formation
-Deploying a webapp using cloud-formation scripts with AWS
+Deploying a webapp using cloud-formation scripts with AWS 
+<p>
 Infrastructure-as-code (IAC) that automates the process of creating a secured and high-availability environment and deploying an application packaged and staged in AWS S3 Storage into a Apache Web Server. The script contains all the configurations needed for a repeatable process so that the infrastructure can be discarded and recreated at will multiple times.
 
 <br>
