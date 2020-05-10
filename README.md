@@ -7,7 +7,7 @@ Infrastructure-as-code (IAC) that automates the process of creating a secured an
 
 ### Detailed Infrastructure Architecture
 
-...
+https://github.com/Prajwal-Arora/Cloud-Formation/blob/master/architecture.jpeg
 
 <br>
 
